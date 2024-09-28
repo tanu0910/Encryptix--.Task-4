@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tribute Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- Header -->
+        <header>
+            <h1><em><i>Tribute Page to the Maths Legend</i></em><br>
+                <em><i>Srinivasa Ramanujan</i></em>
+            </h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSxrdfvGTxc-eyYzg0zHVLjgLbsoWVnmNyfA&s" 
+                 alt="Srinivasa Ramanujan" class="header-img">
+        </header>
+
+        <!-- Introduction Section -->
+        <section class="intro">
+            <h2>About Srinivasa Ramanujan</h2>
+            <p>Srinivasa Ramanujan was an extraordinary mathematician whose contributions revolutionized the field of mathematics. His deep insights and intuitive grasp of complex mathematical concepts are still celebrated today.</p>
+        </section>
+
+        <!-- Early Life Section -->
+        <section class="earlylife">
+            <h2>Early Life</h2>
+            <img src="https://fairgaze.com/images/UploadedImages/thumbs/0309421_0309421_srinivasa-ramanujan-and-his-inventions.jpg" 
+                 alt="Ramanujan as a student" class="content-img">
+            <p>Srinivasa Ramanujan was born on 22 December 1887 in Erode, Tamil Nadu, into a Tamil Brahmin 
+                Iyengar family. His early life was marked by hardship, with the loss of his siblings and the 
+                family's frequent moves between Kumbakonam and Madras (now Chennai). Ramanujan displayed a 
+                remarkable aptitude for mathematics from a young age. By the age of 11, he had surpassed the 
+                mathematical knowledge of two college students who lodged at his home. At 13, he mastered advanced 
+                trigonometry from S. L. Loney’s book and began formulating sophisticated theorems on his own.
+
+                </p>
+                </section>
+        <!-- Education Section -->
+        <section class="edu">
+            <h2>Education</h2>
+            <p>Srinivasa Ramanujan's formal education was both remarkable and unconventional. After showing
+                exceptional mathematical talent at a young age, he excelled in school, earning top marks in subjects
+                like arithmetic and geometry. He attended Town Higher Secondary School, where he first
+                encountered formal mathematics and quickly surpassed his peers. However, his obsession with
+                mathematics led to difficulties in other subjects. While he received a scholarship to study at
+                Government Arts College in Kumbakonam, his singular focus on math caused him to fail in non-
+                mathematical subjects, resulting in the loss of his scholarship. He later enrolled at Pachaiyappa's
+                College in Madras but again failed due to his lack of interest in subjects outside mathematics.
+                Despite not obtaining a degree, Ramanujan continued his independent mathematical research,
+                eventually gaining recognition for his extraordinary genius.</p>
+         </section>
+
+        <!-- Admirable Qualities Section -->
+        <section class="qualities">
+            <h2>Admirable Qualities of Ramanujan</h2>
+            <ul>
+                <li><strong>Brilliant Intuition:</strong> Ramanujan had a natural ability to visualize complex mathematical problems and solutions.</li>
+                <li><strong>Persistence:</strong> Despite facing numerous hardships, including poverty and illness, he continued to work on mathematical theories with passion.</li>
+                <li><strong>Self-Taught:</strong> Much of Ramanujan's mathematical knowledge came from books and his own insights, without formal higher education.</li>
+                <li><strong>Contributions:</strong> His groundbreaking work includes the Ramanujan-Hardy number theory, continued fractions, and infinite series, many of which are used in modern physics.</li>
+            </ul>
+        </section>
+
+        <!-- Contributions Section -->
+        <section class="contributions">
+            <h2>Major Contributions</h2>
+            <img src="https://swarajya.gumlet.io/swarajya%2F2018-12%2F4e853afc-7564-4b8c-99e7-afb7377f85e9%2FUntitled_design.png?format=auto" 
+                 alt="Ramanujan Statue in Cambridge" class="content-img">
+            <p>Srinivasa Ramanujan made groundbreaking contributions to mathematics, particularly in number theory,
+                continued fractions, and infinite series. One of his most famous results is the Ramanujan-Hardy number,
+                1729, known as the smallest number expressible as the sum of two cubes in two different ways. He developed
+                remarkable formulas for partition functions and made significant advances in understanding modular forms.
+                Ramanujan's infinite series for π, along with his work on mock theta functions, continue to influence modern
+                mathematics and theoretical physics. His innovative work, much of it developed independently, laid the foundation
+                for several advanced mathematical fields.
+             </p>
+            <h3>Key Contributions</h3>
+            <ul>
+                <li>The Ramanujan-Hardy Number (1729) – Known as the smallest number expressible as the sum of two cubes in two different ways.</li>
+                <li>Ramanujan’s Infinite Series for Pi – This formula is still used in modern-day mathematics for complex calculations.</li>
+                <li>Ramanujan's Theta Function – An essential contribution to number theory and physics, particularly in string theory.</li>
+            </ul>
+        </section>
+
+        <!-- Legacy and Influence Section -->
+        <section class="influence">
+            <h2>Legacy and Influence</h2>
+            <p>Ramanujan's influence extends far beyond his short life. His mathematical work continues to inspire mathematicians, researchers, and students worldwide. Many modern advancements in mathematics, number theory, and physics owe a debt to his foundational discoveries. Ramanujan’s brilliance, combined with his perseverance against the odds, stands as a lasting testament to the power of human ingenuity.</p>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p>In honor of Srinivasa Ramanujan, his contributions continue to inspire mathematicians around the world.<br>
+            © 2024 Ramanujan Tribute | All Rights Reserved</p>
+        </footer>
+    </body>
+</html>
+
+
+
+
+
+
